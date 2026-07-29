@@ -2,7 +2,7 @@
 
 Programa exclusivo e gratuito, promovido pela Rockeatseat para ensino de tecnologias WEB.
 
-![preview](./.github/cover.jpg)
+<img src="./.github/cover.jpg" alt="Projeto DevLinks" width="100%">
 
 ## 🛠 Tecnologias
 
